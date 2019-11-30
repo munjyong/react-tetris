@@ -1,4 +1,4 @@
-### Tetris created with React & use of React Hooks
+# Tetris created with React & use of React Hooks
 
 ## Hooks used
 - useState()
@@ -8,3 +8,5 @@
 
 ## Styling
 - Made use of Reacts 'styled-components'
+
+Link:  https://react-tetris-munjyong.netlify.com/
