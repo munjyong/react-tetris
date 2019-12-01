@@ -4,7 +4,7 @@ import { StyledInstructions } from './styles/StyledInstructions';
 const Instructions = () => (
     <StyledInstructions>
         <p>
-            <bold>Instructions</bold>
+            <bold>********** Instructions **********</bold>
         </p>
         <p>
             <bold>Movement</bold>
