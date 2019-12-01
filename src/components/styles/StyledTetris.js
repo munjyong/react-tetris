@@ -13,7 +13,7 @@ export const StyledTetrisWrapper = styled.div`
 export const StyledTetris = styled.div`
   display: flex;
   align-items: flex-start;
-  padding: 5%;
+  padding: 1%;
   margin: 0 auto;
   max-width: 900px;
   padding-left: 30%;

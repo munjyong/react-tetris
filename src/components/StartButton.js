@@ -9,9 +9,9 @@ const StyledStartButton = styled.button`
   min-height: 30px;
   width: 100%;
   border-radius: 20px;
-  border: 4px solid #000;
+  border: 4px solid white;
   color: white;
-  background: #222;
+  background: ${props => (props.gameOver ? 'red' : 'green')};
   font-family: Pixel, Arial, Helvetica, sans-serif;
   font-size: 1rem;
   outline: none;
